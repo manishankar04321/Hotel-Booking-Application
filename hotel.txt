@@ -1,3 +1,3 @@
-"Hotel Booking Application" 
-"Room booking system" 
-"Online reservation feature" 
+Hotel Booking Application
+Room booking system
+Booking status: Pending
