@@ -1,3 +1,4 @@
 Hotel Booking Application
 Room booking system
 Booking status: Confirmed
+Online reservation feature enabled
